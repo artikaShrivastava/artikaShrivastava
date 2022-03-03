@@ -1,11 +1,10 @@
 <p align="center">
     <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
 </p>
-<hr>
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Artika Shrivastava</h1>
 <h3 align="center">Frontend Developer</h3>
 <p align="center"
-<a href="" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-flat-icon/linkedin-flat-icon-10.jpg" alt="Artika" height="40" width="40" /> &nbsp</a>
+<a href="https://www.linkedin.com/in/artika-shrivastava/" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-flat-icon/linkedin-flat-icon-10.jpg" alt="Artika" height="40" width="40" /> &nbsp</a>
 <a href = "emailto: artika9417@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="40" width="40" />&nbsp</a>
 </p>
 </p>
@@ -15,8 +14,8 @@
 <p align="center">
   <em>
     This is ME, Artika Shrivastava, a <b>Second year</b> undergraduate from <a href="https://www.ietdavv.edu.in//"> <b>Institue of engineering & technology</b>, Indore</a>. <br>
-    A budding <b>Frontend Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    A <b>Frontend Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
